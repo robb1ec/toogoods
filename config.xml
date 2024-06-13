@@ -529,7 +529,7 @@
       </nextcloud>
       <git version="1.0.0">
         <enabled>1</enabled>
-        <url>https://github.com/robb1ec/toogoods.git</url>
+        <url>ssh://github.com/robb1ec/toogoods.git</url>
         <branch>master</branch>
         <privkey>-----BEGIN OPENSSH PRIVATE KEY-----&#xD;
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW&#xD;
@@ -4426,7 +4426,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   <revision>
     <username>root@10.0.0.195</username>
     <description>/diag_backup.php made changes</description>
-    <time>1718314897.4839</time>
+    <time>1718314924.291</time>
   </revision>
   <OPNsense>
     <Firewall>
