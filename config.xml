@@ -4424,9 +4424,9 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
     <column_count>2</column_count>
   </widgets>
   <revision>
-    <username>root@10.0.0.195</username>
-    <description>/api/openvpn/export/download/1/606ce4848a4df/ made changes</description>
-    <time>1718315023.9992</time>
+    <username>(system)</username>
+    <description>/usr/local/opnsense/mvc/script/run_migrations.php made changes</description>
+    <time>1718757468.5052</time>
   </revision>
   <OPNsense>
     <Firewall>
@@ -4855,10 +4855,11 @@ VN</content>
       <Lvtemplate version="0.0.1">
         <templates/>
       </Lvtemplate>
-      <Filter version="1.0.3">
+      <Filter version="1.0.4">
         <rules/>
         <snatrules/>
         <npt/>
+        <onetoone/>
       </Filter>
     </Firewall>
     <captiveportal version="1.0.1">
