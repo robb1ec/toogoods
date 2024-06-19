@@ -4424,8 +4424,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.0.0.195</username>
-    <description>/api/routes/routes/toggleroute/54d1a3c9-0821-4b16-bb02-51cb3723a107 made changes</description>
-    <time>1718839362.8064</time>
+    <description>/api/routes/routes/toggleroute/2dc10b78-db1c-4399-8731-65c0641ea971 made changes</description>
+    <time>1718839376.3149</time>
   </revision>
   <OPNsense>
     <Firewall>
@@ -7608,7 +7608,7 @@ VN</content>
       <network>64.253.33.167/32</network>
       <gateway>WAN</gateway>
       <descr>YoCloud 3CX via m247</descr>
-      <disabled>0</disabled>
+      <disabled>1</disabled>
     </route>
     <route uuid="0f613e1c-3916-44f9-ae91-d92bc2ee9a6b">
       <network>217.163.91.193/32</network>
