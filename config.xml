@@ -4424,7 +4424,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.0.0.195</username>
-    <time>1718843348.6953</time>
+    <time>1718843394.5224</time>
     <description>/system_gateway_groups_edit.php made changes</description>
   </revision>
   <OPNsense>
@@ -7215,7 +7215,7 @@ VN</content>
       <item>WAN|1</item>
       <item>WANBACKUP_GWv4|1</item>
       <trigger>downlosslatency</trigger>
-      <poolopts>round-robin</poolopts>
+      <poolopts>round-robin sticky-address</poolopts>
       <descr>WAN RR Group</descr>
     </gateway_group>
   </gateways>
