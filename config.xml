@@ -3341,7 +3341,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
       <ipprotocol>inet</ipprotocol>
       <statetype>keep state</statetype>
       <descr>pd.uk.acturis.com</descr>
-      <gateway>WANGWGROUP</gateway>
+      <gateway>WANFTTP_GW</gateway>
       <direction>in</direction>
       <quick>1</quick>
       <source>
@@ -3352,7 +3352,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
       </destination>
       <updated>
         <username>root@10.0.0.195</username>
-        <time>1718842224.199</time>
+        <time>1718843152.4197</time>
         <description>/firewall_rules_edit.php made changes</description>
       </updated>
       <created>
@@ -4424,7 +4424,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.0.0.195</username>
-    <time>1718842224.2949</time>
+    <time>1718843152.5161</time>
     <description>/firewall_rules_edit.php made changes</description>
   </revision>
   <OPNsense>
