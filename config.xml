@@ -3367,7 +3367,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
       <ipprotocol>inet</ipprotocol>
       <statetype>keep state</statetype>
       <descr>uat.uk.acturis.com</descr>
-      <gateway>WANGWGROUP</gateway>
+      <gateway>WANBACKUP_GWv4</gateway>
       <direction>in</direction>
       <quick>1</quick>
       <protocol>tcp/udp</protocol>
@@ -3378,8 +3378,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <address>ActurisUAT</address>
       </destination>
       <updated>
-        <username>root@10.0.0.195</username>
-        <time>1718758687.8548</time>
+        <username>root@10.0.0.123</username>
+        <time>1720107748.0627</time>
         <description>/firewall_rules_edit.php made changes</description>
       </updated>
       <created>
@@ -4423,8 +4423,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
     <column_count>2</column_count>
   </widgets>
   <revision>
-    <username>root@10.0.0.195</username>
-    <time>1718904078.4897</time>
+    <username>root@10.0.0.123</username>
+    <time>1720107748.1657</time>
     <description>/firewall_rules_edit.php made changes</description>
   </revision>
   <OPNsense>
