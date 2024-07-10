@@ -3706,6 +3706,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
       <interface>opt2</interface>
       <ipprotocol>inet</ipprotocol>
       <statetype>keep state</statetype>
+      <descr>GeoIP Block</descr>
       <direction>in</direction>
       <quick>1</quick>
       <source>
@@ -3715,8 +3716,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <any>1</any>
       </destination>
       <updated>
-        <username>root@10.50.50.10</username>
-        <time>1670285098.9463</time>
+        <username>root@10.0.0.195</username>
+        <time>1720624366.4648</time>
         <description>/firewall_rules_edit.php made changes</description>
       </updated>
       <created>
@@ -4449,7 +4450,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.0.0.195</username>
-    <time>1720624329.1055</time>
+    <time>1720624366.5609</time>
     <description>/firewall_rules_edit.php made changes</description>
   </revision>
   <OPNsense>
