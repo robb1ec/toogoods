@@ -4424,8 +4424,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.0.0.195</username>
-    <description>/api/firewall/alias/setItem/c6fbb6f5-d161-452e-816d-8a9af0c863f3 made changes</description>
-    <time>1720624237.51</time>
+    <description>/api/firewall/alias/setItem/674213a0-1662-48b6-b258-4bfe1acec68a made changes</description>
+    <time>1720624249.6928</time>
   </revision>
   <OPNsense>
     <Firewall>
@@ -4851,7 +4851,7 @@ VN</content>
           </alias>
           <alias uuid="674213a0-1662-48b6-b258-4bfe1acec68a">
             <enabled>1</enabled>
-            <name>DefenderHosts</name>
+            <name>DefenderDeniedHosts</name>
             <type>host</type>
             <proto/>
             <interface/>
