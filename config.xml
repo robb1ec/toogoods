@@ -2540,7 +2540,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
       <direction>in</direction>
       <quick>1</quick>
       <source>
-        <address>Defender</address>
+        <address>DefenderDeniedNetworks</address>
       </source>
       <destination>
         <any>1</any>
@@ -3708,7 +3708,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
       <direction>in</direction>
       <quick>1</quick>
       <source>
-        <address>Defender</address>
+        <address>DefenderDeniedNetworks</address>
       </source>
       <destination>
         <any>1</any>
@@ -4424,8 +4424,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.0.0.195</username>
-    <description>/api/firewall/alias/addItem/ made changes</description>
-    <time>1720624220.2199</time>
+    <description>/api/firewall/alias/setItem/c6fbb6f5-d161-452e-816d-8a9af0c863f3 made changes</description>
+    <time>1720624237.51</time>
   </revision>
   <OPNsense>
     <Firewall>
@@ -4838,7 +4838,7 @@ VN</content>
           </alias>
           <alias uuid="c6fbb6f5-d161-452e-816d-8a9af0c863f3">
             <enabled>1</enabled>
-            <name>Defender</name>
+            <name>DefenderDeniedNetworks</name>
             <type>network</type>
             <proto/>
             <interface/>
