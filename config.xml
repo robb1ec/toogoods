@@ -3751,6 +3751,31 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <description>/firewall_rules_edit.php made changes</description>
       </created>
     </rule>
+    <rule uuid="79bf167e-7f1f-4816-b7c6-a017e93c1461">
+      <type>pass</type>
+      <interface>opt2</interface>
+      <ipprotocol>inet</ipprotocol>
+      <statetype>keep state</statetype>
+      <descr>Defender Identified Hosts Block</descr>
+      <direction>in</direction>
+      <quick>1</quick>
+      <source>
+        <address>DefenderDeniedHosts</address>
+      </source>
+      <destination>
+        <any>1</any>
+      </destination>
+      <updated>
+        <username>root@10.0.0.195</username>
+        <time>1720624397.8837</time>
+        <description>/firewall_rules_edit.php made changes</description>
+      </updated>
+      <created>
+        <username>root@10.0.0.195</username>
+        <time>1720624397.8837</time>
+        <description>/firewall_rules_edit.php made changes</description>
+      </created>
+    </rule>
     <rule uuid="7ebb3454-467e-4b18-a28e-e6376c99fc45">
       <type>pass</type>
       <interface>opt2</interface>
@@ -4451,7 +4476,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.0.0.195</username>
-    <time>1720624379.6661</time>
+    <time>1720624397.9869</time>
     <description>/firewall_rules_edit.php made changes</description>
   </revision>
   <OPNsense>
