@@ -4423,9 +4423,9 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
     <column_count>2</column_count>
   </widgets>
   <revision>
-    <username>root@10.0.0.123</username>
-    <time>1720107748.1657</time>
-    <description>/firewall_rules_edit.php made changes</description>
+    <username>root@10.0.0.195</username>
+    <description>/api/firewall/alias/addItem/ made changes</description>
+    <time>1720624220.2199</time>
   </revision>
   <OPNsense>
     <Firewall>
@@ -4848,6 +4848,18 @@ VN</content>
 91.240.118.0/24</content>
             <categories/>
             <description>Defender identified</description>
+          </alias>
+          <alias uuid="674213a0-1662-48b6-b258-4bfe1acec68a">
+            <enabled>1</enabled>
+            <name>DefenderHosts</name>
+            <type>host</type>
+            <proto/>
+            <interface/>
+            <counters>0</counters>
+            <updatefreq/>
+            <content>80.66.66.250</content>
+            <categories/>
+            <description>Defender identified host</description>
           </alias>
         </aliases>
       </Alias>
