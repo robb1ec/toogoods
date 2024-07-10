@@ -2536,7 +2536,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
       <interface>wan</interface>
       <ipprotocol>inet</ipprotocol>
       <statetype>keep state</statetype>
-      <descr>GeoIP Block</descr>
+      <descr>Defender Identified Networks Block</descr>
       <direction>in</direction>
       <quick>1</quick>
       <source>
@@ -2546,8 +2546,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <any>1</any>
       </destination>
       <updated>
-        <username>root@10.50.50.22</username>
-        <time>1717237272.0291</time>
+        <username>root@10.0.0.195</username>
+        <time>1720624308.4965</time>
         <description>/firewall_rules_edit.php made changes</description>
       </updated>
       <created>
@@ -4424,8 +4424,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.0.0.195</username>
-    <description>/api/firewall/alias/setItem/674213a0-1662-48b6-b258-4bfe1acec68a made changes</description>
-    <time>1720624249.6928</time>
+    <time>1720624308.5909</time>
+    <description>/firewall_rules_edit.php made changes</description>
   </revision>
   <OPNsense>
     <Firewall>
