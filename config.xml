@@ -478,7 +478,7 @@
       <cert>666adb9543714</cert>
     </user>
     <user>
-      <password>$2y$11$2ZO7qyEQw1vEU9uHdY6fU.7ToPypFmxXfv7NeBSPUy41n2x1ZQSPe</password>
+      <password>$2y$11$KfTca67qFQJP9t37M2J.e.eH8/eP5.gDZJNh5ddHEp180DdvQyBsW</password>
       <scope>user</scope>
       <name>sam.hughes</name>
       <descr>Sam Hughes</descr>
@@ -4489,8 +4489,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.50.50.34</username>
-    <time>1724077319.193</time>
-    <description>/system_certmanager.php made changes</description>
+    <time>1724077356.7181</time>
+    <description>user "sam.hughes" changed</description>
   </revision>
   <OPNsense>
     <Firewall>
