@@ -246,6 +246,7 @@
       <member>2017</member>
       <member>2019</member>
       <member>2020</member>
+      <member>2021</member>
       <gid>2000</gid>
     </group>
     <user>
@@ -476,7 +477,18 @@
       <uid>2020</uid>
       <cert>666adb9543714</cert>
     </user>
-    <nextuid>2021</nextuid>
+    <user>
+      <password>$2y$11$2ZO7qyEQw1vEU9uHdY6fU.7ToPypFmxXfv7NeBSPUy41n2x1ZQSPe</password>
+      <scope>user</scope>
+      <name>sam.hughes</name>
+      <descr>Sam Hughes</descr>
+      <expires/>
+      <authorizedkeys/>
+      <otp_seed/>
+      <email>sam.hughes@toogoods.co.uk</email>
+      <uid>2021</uid>
+    </user>
+    <nextuid>2022</nextuid>
     <nextgid>2001</nextgid>
     <timezone>Europe/London</timezone>
     <timeservers>0.opnsense.pool.ntp.org 1.opnsense.pool.ntp.org 2.opnsense.pool.ntp.org 3.opnsense.pool.ntp.org</timeservers>
@@ -4476,8 +4488,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.50.50.34</username>
-    <description>/api/openvpn/export/download/1/60777ede18a27/ made changes</description>
-    <time>1723462193.4994</time>
+    <time>1724077232.8593</time>
+    <description>user "sam.hughes" created</description>
   </revision>
   <OPNsense>
     <Firewall>
