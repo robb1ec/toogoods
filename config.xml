@@ -247,6 +247,7 @@
       <member>2019</member>
       <member>2020</member>
       <member>2021</member>
+      <member>2022</member>
       <gid>2000</gid>
     </group>
     <user>
@@ -489,7 +490,18 @@
       <uid>2021</uid>
       <cert>66c35505437c4</cert>
     </user>
-    <nextuid>2022</nextuid>
+    <user>
+      <password>$2y$11$3aL7WoI8rfWJJRU7ovNA8eFpugFveoCIS25PnCEPFPAyCK3vlops6</password>
+      <scope>user</scope>
+      <name>jordan.thomas</name>
+      <descr>Jordan Thomas</descr>
+      <expires/>
+      <authorizedkeys/>
+      <otp_seed/>
+      <email>jordan.thomas@toogoods.co.uk</email>
+      <uid>2022</uid>
+    </user>
+    <nextuid>2023</nextuid>
     <nextgid>2001</nextgid>
     <timezone>Europe/London</timezone>
     <timeservers>0.opnsense.pool.ntp.org 1.opnsense.pool.ntp.org 2.opnsense.pool.ntp.org 3.opnsense.pool.ntp.org</timeservers>
@@ -4489,8 +4501,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.50.50.34</username>
-    <description>/api/openvpn/export/download/1/66c35505437c4/ made changes</description>
-    <time>1724077384.9198</time>
+    <time>1724337245.8641</time>
+    <description>user "jordan.thomas" created</description>
   </revision>
   <OPNsense>
     <Firewall>
