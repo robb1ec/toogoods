@@ -3524,6 +3524,33 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <description>/firewall_rules_edit.php made changes</description>
       </created>
     </rule>
+    <rule uuid="e958907b-0710-442d-a8cf-03d9d1e759ca">
+      <type>pass</type>
+      <interface>lan</interface>
+      <ipprotocol>inet</ipprotocol>
+      <statetype>keep state</statetype>
+      <descr>Allow VPN (OpenVPN)</descr>
+      <direction>in</direction>
+      <quick>1</quick>
+      <protocol>udp</protocol>
+      <source>
+        <network>lan</network>
+        <port>1194</port>
+      </source>
+      <destination>
+        <any>1</any>
+      </destination>
+      <updated>
+        <username>root@10.0.0.116</username>
+        <time>1724416452.0977</time>
+        <description>/firewall_rules_edit.php made changes</description>
+      </updated>
+      <created>
+        <username>root@10.0.0.116</username>
+        <time>1724416452.0977</time>
+        <description>/firewall_rules_edit.php made changes</description>
+      </created>
+    </rule>
     <rule uuid="ab743868-b7fd-42cf-9fa7-392532fa7e07">
       <type>pass</type>
       <interface>openvpn</interface>
@@ -4501,9 +4528,9 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
     <column_count>2</column_count>
   </widgets>
   <revision>
-    <username>root@10.50.50.34</username>
-    <description>/api/openvpn/export/download/1/66c74c778624a/ made changes</description>
-    <time>1724337306.96</time>
+    <username>root@10.0.0.116</username>
+    <time>1724416452.1951</time>
+    <description>/firewall_rules_edit.php made changes</description>
   </revision>
   <OPNsense>
     <Firewall>
