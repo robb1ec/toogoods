@@ -248,6 +248,7 @@
       <member>2020</member>
       <member>2021</member>
       <member>2022</member>
+      <member>2023</member>
       <gid>2000</gid>
     </group>
     <user>
@@ -502,7 +503,18 @@
       <uid>2022</uid>
       <cert>66c74c778624a</cert>
     </user>
-    <nextuid>2023</nextuid>
+    <user>
+      <password>$2y$11$IgmGPkR9cizapXUb6V5id.Nhb8BY1Bf3DemqsFVMElcJ5RSTdhAOm</password>
+      <scope>user</scope>
+      <name>john.lanning</name>
+      <descr>John Lanning</descr>
+      <expires/>
+      <authorizedkeys/>
+      <otp_seed/>
+      <email>john.lanning@toogoods.co.uk</email>
+      <uid>2023</uid>
+    </user>
+    <nextuid>2024</nextuid>
     <nextgid>2001</nextgid>
     <timezone>Europe/London</timezone>
     <timeservers>0.opnsense.pool.ntp.org 1.opnsense.pool.ntp.org 2.opnsense.pool.ntp.org 3.opnsense.pool.ntp.org</timeservers>
@@ -4528,9 +4540,9 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
     <column_count>2</column_count>
   </widgets>
   <revision>
-    <username>root@10.0.0.116</username>
-    <time>1724416452.1951</time>
-    <description>/firewall_rules_edit.php made changes</description>
+    <username>root@10.50.50.34</username>
+    <time>1724947458.3198</time>
+    <description>user "john.lanning" created</description>
   </revision>
   <OPNsense>
     <Firewall>
