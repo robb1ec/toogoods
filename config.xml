@@ -4542,8 +4542,8 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.50.50.34</username>
-    <time>1724947484.0377</time>
-    <description>/system_certmanager.php made changes</description>
+    <description>/api/openvpn/export/download/1/66d09c1a11e7b/ made changes</description>
+    <time>1724947510.5341</time>
   </revision>
   <OPNsense>
     <Firewall>
@@ -5536,7 +5536,7 @@ VN</content>
         <server uuid="680aa820-ced1-4c28-b421-778c8111c82c">
           <vpnid>1</vpnid>
           <hostname>vpn.toogoods.co.uk</hostname>
-          <template>PlainOpenVPN</template>
+          <template>ViscosityVisz</template>
           <local_port>1194</local_port>
           <random_local_port>1</random_local_port>
           <validate_server_cn>1</validate_server_cn>
