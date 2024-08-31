@@ -3935,6 +3935,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1618183791.0292</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="29d4e60f-1af3-4ddb-9020-ce701c02d12c">
       <source>
@@ -3956,6 +3957,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675449.7638</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="b3eb7a30-7b50-4f73-bbd1-0ebf150c47dd">
       <source>
@@ -3977,6 +3979,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675465.4949</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="0feb04d4-2c83-40bc-9ee2-1235c3bb4ce2">
       <source>
@@ -3998,6 +4001,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675480.1545</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="2c2e398b-1671-4d11-bc58-734cf6762ba1">
       <source>
@@ -4019,6 +4023,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675538.6784</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="9593ff77-9fc5-4694-93ff-849ca394f52e">
       <source>
@@ -4040,6 +4045,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675555.3251</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="0319b8ff-a634-4c76-afd6-86a32ca1d70d">
       <source>
@@ -4061,6 +4067,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675612.1393</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="7e841ccb-edea-4867-9d73-455e778db5fb">
       <source>
@@ -4082,6 +4089,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675632.1062</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="34274ddd-cc7e-44f6-9845-4ce4ecb9be34">
       <source>
@@ -4103,6 +4111,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675649.237</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="19145b04-1d30-4378-ba01-df462356df5a">
       <source>
@@ -4124,6 +4133,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675669.8846</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="1ab43e0b-a77c-45ec-bf1c-f78508d35267">
       <source>
@@ -4145,6 +4155,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675688.0504</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="22b14fd7-58be-4457-9441-6d922f4db34e">
       <source>
@@ -4166,6 +4177,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675817.8656</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="80f144da-c585-410b-99bf-7be1f09abcd4">
       <source>
@@ -4187,6 +4199,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675862.2882</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="7bcf360c-5fa8-4286-b846-1e172d8f0e04">
       <source>
@@ -4208,6 +4221,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675883.7159</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="b2217dd9-b1ee-49f8-9ec2-196e48a0a65d">
       <source>
@@ -4229,6 +4243,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675924.5629</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="e3df82d0-5b28-4ffd-a76e-1a6e2d651516">
       <source>
@@ -4250,6 +4265,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675944.2317</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="4c73430b-d71e-4756-9703-cda95a373f08">
       <source>
@@ -4271,6 +4287,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675961.9335</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="08df11a8-75b1-4257-8d6e-8f46d0ad625f">
       <source>
@@ -4292,6 +4309,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642675995.1446</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="22791ddb-0fd8-40ad-a450-270c94e4b7c7">
       <source>
@@ -4313,6 +4331,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642676013.7911</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="6c004015-f7ae-4267-8ce4-d27be5eb8c0a">
       <source>
@@ -4334,6 +4353,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642676032.4723</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="b2fb18e3-c665-4d02-8493-2a231f09d6f1">
       <source>
@@ -4355,6 +4375,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642676051.5486</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="f737f9b0-9bd8-446c-95f1-3af2219d8f8e">
       <source>
@@ -4376,6 +4397,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642676071.1424</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="63c90f5b-d1a5-4fe5-a136-38a383af8cd3">
       <source>
@@ -4397,6 +4419,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1642676088.8459</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="b10aa96b-bfa5-4374-b8f3-8d92f1e10aad">
       <source>
@@ -4418,6 +4441,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1703255927.5145</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="e84c331f-82ef-437e-a1c2-fbf82a6a19d4">
       <source>
@@ -4439,6 +4463,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1703261904.1501</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="3bd772d8-757b-4e27-a488-5dc45d288b38">
       <source>
@@ -4460,6 +4485,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
         <time>1708002060.095</time>
         <description>/firewall_nat_edit.php made changes</description>
       </created>
+      <disabled>1</disabled>
     </rule>
     <rule uuid="871ba120-f15c-42f8-a2d6-15a50406d846">
       <type>pass</type>
@@ -4567,7 +4593,7 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
   </widgets>
   <revision>
     <username>root@10.50.50.34</username>
-    <time>1725098163.229</time>
+    <time>1725098239.1153</time>
     <description>/firewall_rules.php made changes</description>
   </revision>
   <OPNsense>
