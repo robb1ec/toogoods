@@ -4592,9 +4592,9 @@ g0cHH2lcav65Mur+nRlZAAAAFHJvYmJpZS5jQG91dGxvb2suY29tAQ==&#xD;
     <column_count>2</column_count>
   </widgets>
   <revision>
-    <username>root@10.50.50.34</username>
-    <time>1725098239.1153</time>
-    <description>/firewall_rules.php made changes</description>
+    <username>justin.whitton@10.50.50.58</username>
+    <description>/api/routing/settings/setGateway/4ef05e2e-55b4-46aa-88ac-aa184346a553 made changes</description>
+    <time>1730219082.3023</time>
   </revision>
   <OPNsense>
     <Firewall>
@@ -7308,7 +7308,7 @@ VN</content>
         <fargw>0</fargw>
         <monitor_disable>0</monitor_disable>
         <monitor_noroute>0</monitor_noroute>
-        <monitor>212.69.63.144</monitor>
+        <monitor/>
         <force_down>0</force_down>
         <priority>200</priority>
         <weight>2</weight>
